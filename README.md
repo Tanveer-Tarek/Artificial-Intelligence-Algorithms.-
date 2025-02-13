@@ -1,1 +1,1 @@
-# Artificial-Intelligence-Algorithms.-
+# Artificial-Intelligence-Algorithms
